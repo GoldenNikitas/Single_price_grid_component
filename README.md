@@ -10,10 +10,8 @@
 - CSS Grid
 - flexbox
 ## What I learned
-- I learnd how to use media at-rule to set different styles for different devices.
+- Using media at-rule to set different styles for different devices.
 - The way how to utilize Grid CSS basics.
-## Continued development
-- I'd like to continue mastering grid, flexbox and their combination in code. And ofcourse add some js code in my next more complex projects.
 ## Useful resourses
 - CSS Grid: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout
 - Site to investigate image colors: https://imagecolorpicker.com/;
