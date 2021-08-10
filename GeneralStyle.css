@@ -1,0 +1,40 @@
+
+#priceFont {
+    font-size: 0.5em;
+    vertical-align: 0.4em;
+}
+#subscriptionButton {
+    background-color: rgba(191,223,50,255);
+    text-align: center;
+    border: none;
+    width: 50%;
+    height: 3em;
+    margin: 2em auto;
+    border-radius: 7px;
+    color: white;
+}
+#joinBlock {
+    background-color: rgba(255,255,255,255);
+    margin: 0;
+    padding: 1em;
+}
+#subscriptionBlock {
+    background-color: rgba(43,179,177,255);
+    margin: 0;
+    padding: 1em;
+    color: white;
+}
+#whyBlock {
+    background-color: rgba(74,190,189,255);
+    margin: 0;
+    padding: 1em;
+    color: white;
+}
+body {
+    background-color: lightgrey;
+}
+#button_div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

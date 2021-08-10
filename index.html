@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1"> <!--essential to differ devices-->
+    <title>Single price grid component</title>
+    <link href="GeneralStyle.css" rel="stylesheet" media="all">
+    <link href="StyleSmartPhone.css" rel="stylesheet" media="(min-width: 240px)">
+    <link href="StyleOtherDevices.css" rel="stylesheet" media="(min-width: 481px)">
+</head>
+<body>
+    <div id="mainContainer">
+        <div id="joinBlock">
+            <!--This style much easier to edit if it's just for 1 tag-->
+            <h2 style="color: rgba(43,179,177,255);">Join our community</h2>
+            <h3 style="color: rgba(191,223,50,255);">30-day, hassle-free money back guarantee</h3>
+            <p style="color: gray">Gain access to our full library of tutoruials along with expert code reviews<br />
+            Perfect for any developers who are serios about honing their skills</p>
+        </div>
+        <div id="subscriptionBlock">
+            <h3>Monthly Subscription</h3>
+            <h1>$29 <span id="priceFont">per month</span></h1>
+            <p>Full access for less than $1 a day</p>
+            <div id="button_div"> <!-- block to put button in flexbox-->
+                <button id="subscriptionButton">Sign Up</button>
+            </div>
+        </div>
+        <div id="whyBlock">
+            <h2>Why Us</h2>
+            <p>
+            Tutorials by industryu experts<br />
+            Peer & Aacute; expert code review<br />
+            Coding exercises<br />
+            Access to our GitHub repos<br />
+            Community forum<br />
+            Flashcard decks<br />
+            New videos every week<br />
+            </p>
+        </div>
+    </div>
+</body>
+</html>

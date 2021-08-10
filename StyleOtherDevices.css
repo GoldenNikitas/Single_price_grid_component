@@ -1,0 +1,19 @@
+#mainContainer {
+    margin: 10% 30%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+#joinBlock {
+    border-radius: 7px 7px 0px 0px;
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+#subscriptionBlock {
+   border-radius: 0px 0px 0px 7px;
+}
+#whyBlock {
+    border-radius: 0px 0px 7px 0px;
+}
+#subscriptionButton:hover {
+    background-color: rgba(186, 208, 89, 1);
+}
