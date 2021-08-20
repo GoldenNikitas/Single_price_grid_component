@@ -2,6 +2,7 @@
 ## Frontend Mentor Challenge
 ## Final result
 ![Desktop/Mobile version](https://user-images.githubusercontent.com/87588774/128825709-a7224853-98c8-4301-a85f-2376e1310709.png)
+https://goldennikitas.github.io/Single_price_grid_component/
 ## User should be able to:
 - View the optimal layout for the component depending on their device's screen size
 - See a hover state on desktop for the Sign Up call-to-action
